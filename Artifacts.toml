@@ -1,0 +1,308 @@
+[[aff3ct]]
+arch = "aarch64"
+git-tree-sha1 = "7c304cba1010111bf2b4f9a1ab2f3ce9c9f8780a"
+lazy = true
+os = "macos"
+
+    [[aff3ct.download]]
+    sha256 = "5ebd562f5edea0807729fba553cdbffdca857eb3780c1438add8d0b1637c8a0a"
+    url = "https://github.com/JuliaBinaryWrappers/aff3ct_jll.jl/releases/download/aff3ct-v4.2.0+0/aff3ct.v4.2.0.aarch64-apple-darwin.tar.gz"
+[[aff3ct]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1348f3f27c91c727c2d797d6fd22d93dcdbd1fe0"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[aff3ct.download]]
+    sha256 = "8c0e5cfab1597ce9a5a4c874b37f488936eb9146c7774de76e0b65f232486498"
+    url = "https://github.com/JuliaBinaryWrappers/aff3ct_jll.jl/releases/download/aff3ct-v4.2.0+0/aff3ct.v4.2.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[aff3ct]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "570a1550c67117673a7ed454dce418a6a6ffdd16"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[aff3ct.download]]
+    sha256 = "12b5b4e55e66d6e177bc7ff67fe06eee9d803f440cb30393e161b84f2421c894"
+    url = "https://github.com/JuliaBinaryWrappers/aff3ct_jll.jl/releases/download/aff3ct-v4.2.0+0/aff3ct.v4.2.0.aarch64-linux-musl-cxx11.tar.gz"
+[[aff3ct]]
+arch = "aarch64"
+git-tree-sha1 = "27bf3ca899c1e788edb61c866210235ff20ce11b"
+lazy = true
+os = "freebsd"
+
+    [[aff3ct.download]]
+    sha256 = "398dbeaa2f210112bc7e6c2cc7b5c3d93b4e590673849694174bfe5ccafd4152"
+    url = "https://github.com/JuliaBinaryWrappers/aff3ct_jll.jl/releases/download/aff3ct-v4.2.0+0/aff3ct.v4.2.0.aarch64-unknown-freebsd.tar.gz"
+[[aff3ct]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "81dccf91310a742aa26e9c900f1b773cbe8cb783"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[aff3ct.download]]
+    sha256 = "e50e7ae3a29e55a3aceacc62d236469e2bf8cd1097c1c82a77a7a29f1a324d90"
+    url = "https://github.com/JuliaBinaryWrappers/aff3ct_jll.jl/releases/download/aff3ct-v4.2.0+0/aff3ct.v4.2.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[aff3ct]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f57f1b1432c721e3311c2476c41feb0a2a5f33fd"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[aff3ct.download]]
+    sha256 = "766b61a58832a9674ae9a3285f7945d720cd1f6bcb15a8f0c7773b07661bdfae"
+    url = "https://github.com/JuliaBinaryWrappers/aff3ct_jll.jl/releases/download/aff3ct-v4.2.0+0/aff3ct.v4.2.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[aff3ct]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9c7d326c510c451aaae6a028255c0fd88e1cf883"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[aff3ct.download]]
+    sha256 = "43b981cf30f81000cf575de9612abc55e68abca1a1721a63c8ed79879babf7b8"
+    url = "https://github.com/JuliaBinaryWrappers/aff3ct_jll.jl/releases/download/aff3ct-v4.2.0+0/aff3ct.v4.2.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[aff3ct]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ff192410dc1c53976db146295ca0274616d9f48a"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[aff3ct.download]]
+    sha256 = "02c7a05c51e52979cabe7349aab08a948ba6b164de0836fb9acd6d63180f50e0"
+    url = "https://github.com/JuliaBinaryWrappers/aff3ct_jll.jl/releases/download/aff3ct-v4.2.0+0/aff3ct.v4.2.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[aff3ct]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1d1d223db591b111b9a5163f32d69d4796b55361"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[aff3ct.download]]
+    sha256 = "873347dee42bb16dfd0288acdc391d194b20c81d35ce1835cffe72fadba1bf46"
+    url = "https://github.com/JuliaBinaryWrappers/aff3ct_jll.jl/releases/download/aff3ct-v4.2.0+0/aff3ct.v4.2.0.i686-linux-gnu-cxx11.tar.gz"
+[[aff3ct]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "90d5c3c09d83830345bb5d10f96885cd9fad2336"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[aff3ct.download]]
+    sha256 = "37752972addae3d4e9a73aefccbd4c259f27af1da50ed38dfb3d1129f2608d72"
+    url = "https://github.com/JuliaBinaryWrappers/aff3ct_jll.jl/releases/download/aff3ct-v4.2.0+0/aff3ct.v4.2.0.i686-linux-musl-cxx11.tar.gz"
+[[aff3ct]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9fc71b4862186cd4eb853da6c5620a96a05adb3b"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[aff3ct.download]]
+    sha256 = "34786f7ee451a720aed3dd1dbf0f9d8af2a5ea20fba74dfccf9e6def23e6d39a"
+    url = "https://github.com/JuliaBinaryWrappers/aff3ct_jll.jl/releases/download/aff3ct-v4.2.0+0/aff3ct.v4.2.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[aff3ct]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6e90ff7076acb3e99a60f73dd5a3c0be3b2cae16"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[aff3ct.download]]
+    sha256 = "e904d65e80ebfea64f8ba55d1872ca8568bd5122cae1c66b0a3e6f29438be027"
+    url = "https://github.com/JuliaBinaryWrappers/aff3ct_jll.jl/releases/download/aff3ct-v4.2.0+0/aff3ct.v4.2.0.riscv64-linux-gnu-cxx11.tar.gz"
+[[aff3ct]]
+arch = "x86_64"
+git-tree-sha1 = "b30f162c17138a8d00fbd8a0ef1e74254a266b30"
+lazy = true
+march = "avx"
+os = "macos"
+
+    [[aff3ct.download]]
+    sha256 = "527524806a21223f421ec0fe87ea81104d83c1d619e197d3791f4d2d5211b5eb"
+    url = "https://github.com/JuliaBinaryWrappers/aff3ct_jll.jl/releases/download/aff3ct-v4.2.0+0/aff3ct.v4.2.0.x86_64-apple-darwin-march+avx.tar.gz"
+[[aff3ct]]
+arch = "x86_64"
+git-tree-sha1 = "9f472b5756bd40540fba821695ce4365140b1545"
+lazy = true
+march = "avx2"
+os = "macos"
+
+    [[aff3ct.download]]
+    sha256 = "a1b0beedb60d32aa2bab60051aa1382ff0f582d72305835e0e54b6f379df7914"
+    url = "https://github.com/JuliaBinaryWrappers/aff3ct_jll.jl/releases/download/aff3ct-v4.2.0+0/aff3ct.v4.2.0.x86_64-apple-darwin-march+avx2.tar.gz"
+[[aff3ct]]
+arch = "x86_64"
+git-tree-sha1 = "58f2e2bbedb2ccab08ad6b5dc1ee3b2c54803a80"
+lazy = true
+march = "avx512"
+os = "macos"
+
+    [[aff3ct.download]]
+    sha256 = "882292b1c2db1d85c4a7844353d82559bb60afbb6e1d7b897247a260a154ff68"
+    url = "https://github.com/JuliaBinaryWrappers/aff3ct_jll.jl/releases/download/aff3ct-v4.2.0+0/aff3ct.v4.2.0.x86_64-apple-darwin-march+avx512.tar.gz"
+[[aff3ct]]
+arch = "x86_64"
+git-tree-sha1 = "dc974f6aa54745831320ed36d77e890f1e7a0f2d"
+lazy = true
+march = "x86_64"
+os = "macos"
+
+    [[aff3ct.download]]
+    sha256 = "6744b632cdc96e150ae5665fe9e593fd9cd5beddf0a10392cd4aec225847b87e"
+    url = "https://github.com/JuliaBinaryWrappers/aff3ct_jll.jl/releases/download/aff3ct-v4.2.0+0/aff3ct.v4.2.0.x86_64-apple-darwin-march+x86_64.tar.gz"
+[[aff3ct]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4a723e91abd54da978c5fbd58bb2c6a8ceb02c94"
+lazy = true
+libc = "glibc"
+march = "avx"
+os = "linux"
+
+    [[aff3ct.download]]
+    sha256 = "d3a53bd9e3a780fa3b29b5a15cb9ecb73519bb96139940c83102983f7a8e208c"
+    url = "https://github.com/JuliaBinaryWrappers/aff3ct_jll.jl/releases/download/aff3ct-v4.2.0+0/aff3ct.v4.2.0.x86_64-linux-gnu-cxx11-march+avx.tar.gz"
+[[aff3ct]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4f6667eb7a41c5b5d4e5209e890b9dbf759e6294"
+lazy = true
+libc = "glibc"
+march = "avx2"
+os = "linux"
+
+    [[aff3ct.download]]
+    sha256 = "ec5761866b99f28657faeeb950dd3fc84cf0b99f3df14a15cc16e8bf73b50132"
+    url = "https://github.com/JuliaBinaryWrappers/aff3ct_jll.jl/releases/download/aff3ct-v4.2.0+0/aff3ct.v4.2.0.x86_64-linux-gnu-cxx11-march+avx2.tar.gz"
+[[aff3ct]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "de3f9715609310fabc501e0da62a0027706b75c6"
+lazy = true
+libc = "glibc"
+march = "avx512"
+os = "linux"
+
+    [[aff3ct.download]]
+    sha256 = "e6cbdffb4c6c33481922d66f1c176a6de9ac46ef62be866bfcc256201548aac5"
+    url = "https://github.com/JuliaBinaryWrappers/aff3ct_jll.jl/releases/download/aff3ct-v4.2.0+0/aff3ct.v4.2.0.x86_64-linux-gnu-cxx11-march+avx512.tar.gz"
+[[aff3ct]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "90de69874d72c4fcf626ee2781b38c5c61e42cf0"
+lazy = true
+libc = "glibc"
+march = "x86_64"
+os = "linux"
+
+    [[aff3ct.download]]
+    sha256 = "93f554a7965ec6611e576043cd8cff5c8b7306cac156af58c233775b7749c3c8"
+    url = "https://github.com/JuliaBinaryWrappers/aff3ct_jll.jl/releases/download/aff3ct-v4.2.0+0/aff3ct.v4.2.0.x86_64-linux-gnu-cxx11-march+x86_64.tar.gz"
+[[aff3ct]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "56169724243e44e75107b95f66a395881338959f"
+lazy = true
+libc = "musl"
+march = "avx"
+os = "linux"
+
+    [[aff3ct.download]]
+    sha256 = "edc6e34d1aebd029b182a6a3cf6ed1f4f4078801fbbaed6fe37881ea401a5a86"
+    url = "https://github.com/JuliaBinaryWrappers/aff3ct_jll.jl/releases/download/aff3ct-v4.2.0+0/aff3ct.v4.2.0.x86_64-linux-musl-cxx11-march+avx.tar.gz"
+[[aff3ct]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "aa3260dc1899545909cc0a9aca8f5305963798ae"
+lazy = true
+libc = "musl"
+march = "avx2"
+os = "linux"
+
+    [[aff3ct.download]]
+    sha256 = "6380d0d10d81ecf7b3815f6d6ad84a2d9bef24cb85fd5484a09a623660c64123"
+    url = "https://github.com/JuliaBinaryWrappers/aff3ct_jll.jl/releases/download/aff3ct-v4.2.0+0/aff3ct.v4.2.0.x86_64-linux-musl-cxx11-march+avx2.tar.gz"
+[[aff3ct]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9e415fbb7ad63cad40d33774bd3e077112dab657"
+lazy = true
+libc = "musl"
+march = "avx512"
+os = "linux"
+
+    [[aff3ct.download]]
+    sha256 = "d0cc5c6a79b3efe36fd1302cbc079dc558e9af3baeb3549b421e193060ba59c5"
+    url = "https://github.com/JuliaBinaryWrappers/aff3ct_jll.jl/releases/download/aff3ct-v4.2.0+0/aff3ct.v4.2.0.x86_64-linux-musl-cxx11-march+avx512.tar.gz"
+[[aff3ct]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8949f3dd4ff62e56037cce61590782a68c413a34"
+lazy = true
+libc = "musl"
+march = "x86_64"
+os = "linux"
+
+    [[aff3ct.download]]
+    sha256 = "29c22b27ac640d0d2765d3a9efb218b3ddda1cd7ccde922e53f4d17909bff7bb"
+    url = "https://github.com/JuliaBinaryWrappers/aff3ct_jll.jl/releases/download/aff3ct-v4.2.0+0/aff3ct.v4.2.0.x86_64-linux-musl-cxx11-march+x86_64.tar.gz"
+[[aff3ct]]
+arch = "x86_64"
+git-tree-sha1 = "dd3b919288e2a860012ee86fc3eb74c1406bf34f"
+lazy = true
+march = "avx"
+os = "freebsd"
+
+    [[aff3ct.download]]
+    sha256 = "67a7a0988939e0d86d24b676ed2f10caba96737865f986c791a051e0963f2453"
+    url = "https://github.com/JuliaBinaryWrappers/aff3ct_jll.jl/releases/download/aff3ct-v4.2.0+0/aff3ct.v4.2.0.x86_64-unknown-freebsd-march+avx.tar.gz"
+[[aff3ct]]
+arch = "x86_64"
+git-tree-sha1 = "00de445b1b720c625f6a9f4de7ad49d7b5ca5352"
+lazy = true
+march = "avx2"
+os = "freebsd"
+
+    [[aff3ct.download]]
+    sha256 = "ea44916d7bdeedf9f1fdbecd095209d15a56f4e9db0da9928a49b15a6fe469eb"
+    url = "https://github.com/JuliaBinaryWrappers/aff3ct_jll.jl/releases/download/aff3ct-v4.2.0+0/aff3ct.v4.2.0.x86_64-unknown-freebsd-march+avx2.tar.gz"
+[[aff3ct]]
+arch = "x86_64"
+git-tree-sha1 = "e1e8f3b8b10771f53459b904f7af5c1ccab8e64d"
+lazy = true
+march = "avx512"
+os = "freebsd"
+
+    [[aff3ct.download]]
+    sha256 = "485c43b94d48bf2c4877473a7b8a9916844aa6a89a9d06e8a50942b03e83f811"
+    url = "https://github.com/JuliaBinaryWrappers/aff3ct_jll.jl/releases/download/aff3ct-v4.2.0+0/aff3ct.v4.2.0.x86_64-unknown-freebsd-march+avx512.tar.gz"
+[[aff3ct]]
+arch = "x86_64"
+git-tree-sha1 = "03c415fdb968be43eeab1aa1a9924b1ef635bcc9"
+lazy = true
+march = "x86_64"
+os = "freebsd"
+
+    [[aff3ct.download]]
+    sha256 = "7335019ef91e4a371289a148822b7b8c7f3e9505d893e65f66fb7e8cf95c42c4"
+    url = "https://github.com/JuliaBinaryWrappers/aff3ct_jll.jl/releases/download/aff3ct-v4.2.0+0/aff3ct.v4.2.0.x86_64-unknown-freebsd-march+x86_64.tar.gz"
